@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/minimus-master.iml" filepath="$PROJECT_DIR$/.idea/minimus-master.iml" />
+      <module fileurl="file://$USER_HOME$/WebstormProjects/portfolio-webapp/.idea/portfolio-webapp.iml" filepath="$USER_HOME$/WebstormProjects/portfolio-webapp/.idea/portfolio-webapp.iml" />
+    </modules>
+  </component>
+</project>
